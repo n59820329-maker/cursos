@@ -17,7 +17,7 @@ def get_db_connection():
         host='localhost',
         user='root',
         password='',
-        database='cursos_online_db'
+        database=''
     )
     return conn
 
